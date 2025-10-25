@@ -1,8 +1,0 @@
-25/10/25 23:58:54 [INFO] app: Starting Spark Session
-25/10/25 23:58:54 [INFO] app: Extracting Account Data
-25/10/25 23:58:55 [INFO] app: Extracting Parties Data
-25/10/25 23:58:55 [INFO] app: Extracting Address Data
-25/10/25 23:58:55 [INFO] app: Joining Party and Address Data
-25/10/25 23:58:56 [INFO] app: Joining Account Data with new join address
-25/10/25 23:58:56 [INFO] app: Applying Final Json Structure
-25/10/25 23:59:01 [INFO] app: Finished Creating Spark Session
